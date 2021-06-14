@@ -1,10 +1,12 @@
-some changes above
+some changes above branch 3
 
 
 
-test changed
+test changed in both branch 3
 
 
 
 
 some changes below
+
+added some content below in branch 3
